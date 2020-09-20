@@ -1,0 +1,38 @@
+﻿生成启动时间为 2020/9/20 10:35:26。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TANKEYOU1\TANKEYOU1\TANKEYOU1\TANKEYOU1.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\TANKEYOU1.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\TANKEYOU1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt common.cpp "game-clock.cpp" "game-control.cpp" "mci-sound.cpp" "select-panel.cpp" "tank-common.cpp" "tank-enemy.cpp" "tank-player.cpp" tank.cpp
+         tank.cpp
+         tank-player.cpp
+         tank-enemy.cpp
+         tank-common.cpp
+         select-panel.cpp
+         mci-sound.cpp
+         game-control.cpp
+         game-clock.cpp
+     1>c:\users\administrator\documents\visual studio 2010\projects\tankeyou1\tankeyou1\tankeyou1\game-clock.cpp(14): warning C4244: “=”: 从“LONGLONG”转换到“double”，可能丢失数据
+         common.cpp
+         正在生成代码...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TANKEYOU1\TANKEYOU1\Debug\TANKEYOU1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TANKEYOU1\TANKEYOU1\Debug\TANKEYOU1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TANKEYOU1\TANKEYOU1\Debug\TANKEYOU1.lib" /MACHINE:X86 Debug\common.obj
+         "Debug\game-clock.obj"
+         "Debug\game-control.obj"
+         "Debug\mci-sound.obj"
+         "Debug\select-panel.obj"
+         "Debug\tank-common.obj"
+         "Debug\tank-enemy.obj"
+         "Debug\tank-player.obj"
+         Debug\tank.obj
+         TANKEYOU1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TANKEYOU1\TANKEYOU1\Debug\TANKEYOU1.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\TANKEYOU1.unsuccessfulbuild”。
+         正在对“Debug\TANKEYOU1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TANKEYOU1\TANKEYOU1\TANKEYOU1\TANKEYOU1.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.96
